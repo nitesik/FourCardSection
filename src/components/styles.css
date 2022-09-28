@@ -1,0 +1,210 @@
+
+
+@media (min-width: 1000px) {
+
+  .container {
+    height: 150vh;
+    width: 100vw;
+    background-color: hsl(0, 0%, 98%);
+    font-size: 15px;
+    color: hsl(229, 6%, 66%);
+  }
+  
+  .title {
+    padding-top: 35px;
+    font-size: 30px;
+  }
+  
+  .subtitle {
+    margin-top: 5px;
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+  }
+  
+  .description {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .text {
+    width: 450px;
+  }
+  
+  .cards {
+    display: flex;
+    margin-top: 25%;
+    text-align: start;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card-title {
+    font-size: 25px;
+    font-weight: 500;
+    color: black
+  }
+  
+  .card-description {
+    margin-top: 15px;
+  }
+  
+  img {
+    margin-top: 70px;
+    margin-left: 250px;
+  }
+  
+  .team-builder {
+    padding: 25px;
+    height: 225px;
+    width: 325px;
+    background-color: white;
+    border-top: 3px solid hsl(0, 78%, 62%);
+    border-radius: 10px;
+    position: absolute;
+    margin-bottom: 300px;
+  }
+  
+  .karma {
+    padding: 25px;
+    height: 225px;
+    width: 325px;
+    background-color: white;
+    border-top: 3px solid hsl(34, 97%, 64%);
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 300px;
+  }
+  
+  .supervisor {
+    padding: 25px;
+    height: 225px;
+    width: 325px;
+    background-color: white;
+    border-top: 3px solid hsl(180, 62%, 55%);
+    border-radius: 10px;
+    position: absolute;
+    margin-right: 800px;
+  }
+  
+  .calculator {
+    padding: 25px;
+    height: 225px;
+    width: 325px;
+    background-color: white;
+    border-top: 3px solid hsl(212, 86%, 64%);
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 800px;
+  }
+}
+
+@media (max-width: 999px) {
+
+  .container {
+    height: auto;
+    width: 100vw;
+    background-color: hsl(0, 0%, 98%);
+    font-size: 15px;
+    color: hsl(229, 6%, 66%);
+    font-weight: 400;
+  }
+  
+  .title {
+    padding-top: 35px;
+    font-size: 30px;
+  }
+  
+  .subtitle {
+    margin-top: 5px;
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+  }
+  
+  .description {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+  }
+
+  .text {
+    font-size: 18px;
+    width: 320px;
+  }
+
+  .cards {
+    text-align: start;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+
+  .card-title {
+    font-size: 25px;
+    font-weight: 500;
+    color: black
+  }
+  
+  .card-description {
+    margin-top: 10px;
+  }
+
+  img {
+    margin-top: 70px;
+    margin-left: 200px;
+  }
+
+  .supervisor {
+    padding: 25px;
+    height: 225px;
+    width: 275px;
+    background-color: white;
+    border-top: 3px solid hsl(180, 62%, 55%);
+    border-radius: 10px;
+  }
+  .team-builder {
+    padding: 25px;
+    height: 225px;
+    width: 275px;
+    background-color: white;
+    border-top: 3px solid hsl(0, 78%, 62%);
+    border-radius: 10px;
+  }
+  .karma {
+    padding: 25px;
+    height: 225px;
+    width: 275px;
+    background-color: white;
+    border-top: 3px solid hsl(34, 97%, 64%);
+    border-radius: 10px;
+  }
+  .calculator {
+    padding: 25px;
+    height: 225px;
+    width: 275px;
+    background-color: white;
+    border-top: 3px solid hsl(212, 86%, 64%);
+    border-radius: 10px;
+  }
+  
+}
+
+.supervisor {
+  box-shadow: 10px 10px 20px;
+}
+
+.team-builder {
+  box-shadow: 10px 10px 20px;
+}
+
+.calculator {
+  box-shadow: 10px 10px 20px;
+}
+
+.karma {
+  box-shadow: 10px 10px 20px;
+}
