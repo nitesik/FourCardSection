@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.d290dfaf.css",
-    "main.js": "/static/js/main.7ed6a615.js",
-    "static/js/787.966a583a.chunk.js": "/static/js/787.966a583a.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/icon-karma.svg": "/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
-    "static/media/icon-supervisor.svg": "/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
-    "static/media/icon-team-builder.svg": "/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
-    "static/media/icon-calculator.svg": "/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
-    "index.html": "/index.html",
-    "main.d290dfaf.css.map": "/static/css/main.d290dfaf.css.map",
-    "main.7ed6a615.js.map": "/static/js/main.7ed6a615.js.map",
-    "787.966a583a.chunk.js.map": "/static/js/787.966a583a.chunk.js.map"
+    "main.css": "/FourCardSection/static/css/main.d290dfaf.css",
+    "main.js": "/FourCardSection/static/js/main.0ab98ee5.js",
+    "static/js/787.966a583a.chunk.js": "/FourCardSection/static/js/787.966a583a.chunk.js",
+    "static/media/logo.svg": "/FourCardSection/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/icon-karma.svg": "/FourCardSection/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
+    "static/media/icon-supervisor.svg": "/FourCardSection/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
+    "static/media/icon-team-builder.svg": "/FourCardSection/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
+    "static/media/icon-calculator.svg": "/FourCardSection/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
+    "index.html": "/FourCardSection/index.html",
+    "main.d290dfaf.css.map": "/FourCardSection/static/css/main.d290dfaf.css.map",
+    "main.0ab98ee5.js.map": "/FourCardSection/static/js/main.0ab98ee5.js.map",
+    "787.966a583a.chunk.js.map": "/FourCardSection/static/js/787.966a583a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d290dfaf.css",
-    "static/js/main.7ed6a615.js"
+    "static/js/main.0ab98ee5.js"
   ]
 }
